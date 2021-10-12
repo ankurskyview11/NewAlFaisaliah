@@ -1,0 +1,6 @@
+framework module Pods_AlFaisalia {
+  umbrella header "Pods-AlFaisalia-umbrella.h"
+
+  export *
+  module * { export * }
+}
